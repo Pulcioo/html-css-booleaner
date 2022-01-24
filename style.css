@@ -6,7 +6,7 @@
 }
 
 #logo{
-    width: 150px;
+    width: 180px;
     position: relative;
     top: 50px
 }
@@ -35,6 +35,48 @@ span{
     margin-top: 30px;
 }
 
-#list{
-    
+.list{
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+#table{
+    border-spacing: 0;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.text-table{
+    color: white;
+}
+
+.row{
+    background-color: lightskyblue;
+}
+
+.cell{
+    background-color: lightblue
+}
+
+h3{
+    color: grey;
+    margin-top: 50px;
+}
+
+.monitor{
+    background-image: url(img/monitor.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+}
+
+.graph{
+    background-image: url(img/graph.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+}
+
+h2{
+    color: white;
+    position: relative;
+    left: 20px;
 }
