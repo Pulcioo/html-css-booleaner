@@ -1,0 +1,27 @@
+#pattern{
+    background-image: url("img/pattern.png");
+    background-color: skyblue;
+    background-size: contain;
+    height: 100px;
+}
+
+#logo{
+    width: 150px;
+    position: relative;
+    top: 50px
+}
+
+#info-text{
+    font-size: medium;
+    line-height: 3px;
+    color: grey;
+}
+
+span{
+    color: skyblue;
+}
+
+.footer-img{
+    line-height: 3px;
+    font-size: small;
+}
